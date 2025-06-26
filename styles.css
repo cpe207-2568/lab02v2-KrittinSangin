@@ -1,0 +1,41 @@
+
+@font-face {
+ font-family: 'KIND';
+ src:
+     url('fonts/KINDERGARTEN.TTF') format('truetype');
+     font-weight: normal;
+      font-style: normal;
+}
+
+.center{
+    margin: auto;
+    width: fit-content;
+}
+.headercolor{
+    color: darkolivegreen;
+    font-size: 35px;
+    font-weight: 900;
+    font-style: italic;
+}
+.line{
+    font-size: 17px;
+    padding-top: 30px;
+}
+.small{
+    padding-top:20px ;
+    font-size: 20px;
+}
+.bodoni{
+  font-family: "Kaisei Decol", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: italic;
+}
+.box{
+    border: outset ;
+    border-width: 3px;
+    border-color: rgb(196, 202, 185);
+    width: 40%;
+    height: 30%;
+    padding: 40px;
+}
